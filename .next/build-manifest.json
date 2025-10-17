@@ -10,9 +10,9 @@
       "static/chunks/8efb4d1eb7b7dd1f.js",
       "static/chunks/b3fe331407d84e02.js",
       "static/chunks/3a3b3e3f1ca8bd27.js",
-      "static/chunks/f52f088652c771d3.js",
+      "static/chunks/0fdd10b00e2404a4.js",
       "static/chunks/e0de86aeed003d96.css",
-      "static/chunks/turbopack-8d5e776f8ae1ea66.js"
+      "static/chunks/turbopack-cc29f622dfe230fb.js"
     ],
     "/_error": [
       "static/chunks/cde14a0c918f8393.js",
@@ -24,36 +24,36 @@
       "static/chunks/fee48d79aad93760.js",
       "static/chunks/b3fe331407d84e02.js",
       "static/chunks/3a3b3e3f1ca8bd27.js",
-      "static/chunks/f52f088652c771d3.js",
-      "static/chunks/turbopack-316e8f5922ff72bc.js"
+      "static/chunks/0fdd10b00e2404a4.js",
+      "static/chunks/turbopack-9ea5019422c6353f.js"
     ],
     "/aprendices": [
       "static/chunks/a0e47d61e4e4ec32.js",
       "static/chunks/b3fe331407d84e02.js",
-      "static/chunks/f52f088652c771d3.js",
+      "static/chunks/0fdd10b00e2404a4.js",
       "static/chunks/3a3b3e3f1ca8bd27.js",
-      "static/chunks/turbopack-0d298303c7675f63.js"
+      "static/chunks/turbopack-1ac85d1e04f79141.js"
     ],
     "/dashboard": [
       "static/chunks/b0e1dee8f0daaab0.js",
       "static/chunks/b3fe331407d84e02.js",
-      "static/chunks/f52f088652c771d3.js",
+      "static/chunks/0fdd10b00e2404a4.js",
       "static/chunks/3a3b3e3f1ca8bd27.js",
-      "static/chunks/turbopack-e9f593561b0e6118.js"
+      "static/chunks/turbopack-97deb2301071f14f.js"
     ],
     "/employer": [
       "static/chunks/6f00849b0bb85b66.js",
       "static/chunks/b3fe331407d84e02.js",
-      "static/chunks/f52f088652c771d3.js",
+      "static/chunks/0fdd10b00e2404a4.js",
       "static/chunks/3a3b3e3f1ca8bd27.js",
-      "static/chunks/turbopack-0375eaa3f3d29812.js"
+      "static/chunks/turbopack-feb4d3955b69d2c5.js"
     ]
   },
   "devFiles": [],
   "polyfillFiles": [],
   "lowPriorityFiles": [
-    "static/UO4gGKvBqaISL04Fo7D33/_ssgManifest.js",
-    "static/UO4gGKvBqaISL04Fo7D33/_buildManifest.js"
+    "static/TTe2GldSgA_bi8ZaTK_1N/_ssgManifest.js",
+    "static/TTe2GldSgA_bi8ZaTK_1N/_buildManifest.js"
   ],
   "rootMainFiles": []
 }

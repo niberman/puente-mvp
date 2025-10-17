@@ -6,16 +6,16 @@ self.__BUILD_MANIFEST = {
     "static/chunks/3c623cec730e92fd.js"
   ],
   "/admin": [
-    "static/chunks/762d1ee31eb87a23.js"
+    "static/chunks/a425aaf26894c915.js"
   ],
   "/aprendices": [
-    "static/chunks/93bdf70dfccec5e3.js"
+    "static/chunks/9ad865aee1ed32fb.js"
   ],
   "/dashboard": [
-    "static/chunks/61b65308920e8b75.js"
+    "static/chunks/507412c7c73b2139.js"
   ],
   "/employer": [
-    "static/chunks/db09e3296a0c1b04.js"
+    "static/chunks/feedc81cecef8376.js"
   ],
   "__rewrites": {
     "afterFiles": [],
