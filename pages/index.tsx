@@ -39,7 +39,7 @@ export default function Home() {
           <p className="text-slate-300 mt-2">
             Post jobs and discover pre-qualified Spanish-English candidates.
           </p>
-          <Link href="/employers" className="btn mt-6">
+          <Link href="/employer" className="btn mt-6">
             I’m an employer
           </Link>
         </div>

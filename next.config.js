@@ -1,9 +1,9 @@
-
 /** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === 'production'
 const nextConfig = {
   reactStrictMode: true,
   output: 'export',
-  basePath: '/puente-mvp',
+  basePath: isProd ? '/puente-mvp' : '',
   images: {
     unoptimized: true,
   },
