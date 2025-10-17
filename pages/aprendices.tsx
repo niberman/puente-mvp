@@ -6,9 +6,9 @@ export default function Aprendices() {
   const [completed, setCompleted] = useState<number[]>([])
 
   const lessons = [
-    { id: 1, title: 'Greetings & Phone Etiquette', level: 'A2'},
-    { id: 2, title: 'Customer Support Dialogues', level: 'B1'},
-    { id: 3, title: 'Workplace Vocabulary (Front Desk)', level: 'B1'}
+    { id: 1, title: 'Saludos y Etiqueta Telefónica', level: 'A2'},
+    { id: 2, title: 'Diálogos de Atención al Cliente', level: 'B1'},
+    { id: 3, title: 'Vocabulario Laboral (Recepción)', level: 'B1'}
   ]
 
   async function completeLesson(id: number) {
