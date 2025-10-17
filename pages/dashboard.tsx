@@ -25,7 +25,7 @@ export default function Dashboard() {
   ]
 
   async function completeLesson(id:number){
-    setCompleted(prev => [...new Set(prev.concat(id))])
+    setCompleted(prev => [...Array.from(new Set(prev.concat(id)))])
     const { data: { user } } = await supabase.auth.getUser()
     if (!user) return
     await supabase.from('lesson_progress').insert({ user_id: user.id, lesson_id: id, completed: true })

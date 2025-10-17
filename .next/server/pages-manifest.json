@@ -1,8 +1,11 @@
 {
+  "/": "pages/index.html",
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/employer": "pages/employer.js",
-  "/dashboard": "pages/dashboard.js"
+  "/_error": "pages/_error.js",
+  "/admin": "pages/admin.html",
+  "/aprendices": "pages/aprendices.html",
+  "/dashboard": "pages/dashboard.html",
+  "/employer": "pages/employer.html",
+  "/404": "pages/404.html"
 }

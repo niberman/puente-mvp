@@ -6,7 +6,8 @@
     "dev": "next dev -p 3000",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next build && touch out/.nojekyll"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.4",

@@ -12,7 +12,7 @@ export default function Aprendices() {
   ]
 
   async function completeLesson(id: number) {
-    setCompleted(prev => [...new Set(prev.concat(id))])
+    setCompleted(prev => [...Array.from(new Set(prev.concat(id)))])
     const { data: { user } } = await supabase.auth.getUser()
     if (!user) {
       // If user is not signed in, just mark as completed locally
